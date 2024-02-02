@@ -2,3 +2,4 @@ add feature - event detection
 add feature - leak management
 add feature - dynamic pressure control
 add feature - auto mode
+add feature - fans law
